@@ -301,8 +301,8 @@ BeginMovie A06_F00E
 Font=batang.ttc
 <Time=00:00:00:30, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="我不得不佩服你，孩子...">
 <Time=00:00:03:00, Duration=00:00:00:00, Position=14:Center, Color=255:255:0, Text="我从来都没看过谭雅为谁卖命。">
-<Time=00:00:06:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="她目前回乡执行任务，但她要我传送是否有什么、嗯，">
-<Time=00:00:12:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="必须召集她回来的地方。">
+<Time=00:00:06:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="她目前回乡执行任务，但她要我代为传达，嗯...">
+<Time=00:00:12:00, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="她好不容易才挤出来的问候。">
 <Time=00:00:15:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="嗯，另外你一定也给德国人留下深刻印象了。">
 <Time=00:00:18:30, Duration=00:00:00:00, Position=14:center, Color=255:255:0, Text="基于对你的赏识，他们的总理决定让你与他们最杰出的科学家接触，">
 <Time=00:00:23:30, Duration=00:00:03:00, Position=14:center, Color=255:255:0, Text="爱因斯坦博士，您还在线上吗？">
